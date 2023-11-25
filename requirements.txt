@@ -1,0 +1,4 @@
+django==3.2
+celery
+djangorestframework
+mysql-client
